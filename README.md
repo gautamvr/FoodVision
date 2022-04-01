@@ -9,6 +9,6 @@ The dataset being used is Food 101
 
 The model architecture is as below. 
 
-(Performed transfer learning on EfficientNetB0 model archtiture for feature extraction and fine tuning)
-
 ![alt text](https://github.com/gautamvr/FoodVision/blob/main/assets/07-feature-extraction-finetune_model.png)
+
+(Performed transfer learning on EfficientNetB0 model archtiture for feature extraction and fine tuning)
